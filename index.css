@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url("pngtree-balloon-purple-fantasy-birthday-background-image_557779.jpg");
+    background-position: center;
+}
+.card{
+    width: 250px;
+    height: 60px;
+    border: 3px aliceblue;
+    border-radius: 19px;
+    background-color: aqua;
+    background-image: url("WhatsApp Image 2023-08-12 at 7.59.40 AM.jpeg");
+    height: 60%;
+    background-position: center;
+    background-size: cover;
+    
+}
+.bhanu{
+    background-color: none;
+    font-weight: 300;
+    position: relative;
+    bottom: -150px; 
+    left:10px; 
+    margin-left:110px;
+    margin-right:0px;
+}
+a{
+    text-decoration: none;
+    color: goldenrod;
+}
